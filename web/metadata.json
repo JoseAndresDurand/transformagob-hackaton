@@ -1,0 +1,6 @@
+{
+  "name": "SkillMatch UNSA",
+  "description": "Smart Data Gateway bridging the gap between verified academic excellence and industrial demand with vector semantic similarity matches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
